@@ -1,0 +1,6 @@
+[
+  {
+    "name": "GitLab",
+    "image": "theaentmachine/aent-gitlabci:snapshot"
+  }
+]
