@@ -1,4 +1,4 @@
 {
   "name": "Bootstrap",
-  "image": "theaentmachine/aent-bootstrap:bootstrap"
+  "image": "theaentmachine/aent-bootstrap:snapshot"
 }
