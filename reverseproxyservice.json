@@ -1,0 +1,4 @@
+{
+  "name": "Traefik",
+  "image": "theaentmachine/aent-traefik:snapshot"
+}

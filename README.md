@@ -3,3 +3,5 @@
 # Colony registry
 
 List of all official aents.
+
+Those JSON files ares used across aents to automatically retrieve the latest version of an aent.  
