@@ -1,10 +1,10 @@
 [
   {
     "name": "Docker Compose",
-    "image": "theaentmachine/aent-docker-compose:snapshot"
+    "image": "theaentmachine/aent-docker-compose:latest"
   },
   {
     "name": "Kubernetes",
-    "image": "theaentmachine/aent-kubernetes:snapshot"
+    "image": "theaentmachine/aent-kubernetes:latest"
   }
 ]

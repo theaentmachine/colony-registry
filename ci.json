@@ -1,6 +1,6 @@
 [
   {
     "name": "GitLab",
-    "image": "theaentmachine/aent-gitlabci:snapshot"
+    "image": "theaentmachine/aent-gitlabci:latest"
   }
 ]
