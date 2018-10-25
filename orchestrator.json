@@ -5,6 +5,6 @@
   },
   {
     "NAME": "Kubernetes",
-    "IMAGE": "theaentmachine/aent-kubernetes:snapshot"
+    "IMAGE": "theaentmachine/aent-kubernetes:latest"
   }
 ]
