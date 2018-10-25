@@ -1,6 +1,6 @@
 [
   {
-    "name": "Dockerfile",
-    "image": "theaentmachine/aent-dockerfile:latest"
+    "NAME": "Dockerfile",
+    "IMAGE": "theaentmachine/aent-dockerfile:latest"
   }
 ]
