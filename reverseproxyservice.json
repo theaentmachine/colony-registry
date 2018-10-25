@@ -1,6 +1,6 @@
 [
   {
-    "name": "Traefik",
-    "image": "theaentmachine/aent-traefik:latest"
+    "NAME": "Traefik",
+    "IMAGE": "theaentmachine/aent-traefik:latest"
   }
 ]
