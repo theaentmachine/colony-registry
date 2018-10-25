@@ -4,7 +4,7 @@
     "IMAGE": "theaentmachine/aent-docker-compose:latest"
   },
   {
-    "NAME_IMAGE": "Kubernetes",
-    "NAME_IMAGE": "theaentmachine/aent-kubernetes:latest"
+    "NAME": "Kubernetes",
+    "IMAGE": "theaentmachine/aent-kubernetes:latest"
   }
 ]
